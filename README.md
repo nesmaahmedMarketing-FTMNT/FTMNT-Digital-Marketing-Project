@@ -200,3 +200,22 @@ Analytics      →  Meta Business Suite · TikTok Analytics
 ```
 © 2025 · FTMNT Marketing Project · Digital Marketing Course · Graduation Project
 ```
+
+
+
+## 📈 7. Recommendations & Performance Reporting
+
+Based on our current strategy and market analysis, we have outlined the following roadmap for FTMNT's growth[cite: 6]:
+
+### Strategic Recommendations
+* **Influencer Marketing:** Collaborate with micro-influencers in the handmade fashion niche to build social proof[cite: 6].
+* **Bespoke Loyalty:** Launch a referral program for custom-made orders to increase customer lifetime value[cite: 6].
+* **Video First Strategy:** Scale the 10% TikTok/Reels budget if organic engagement exceeds expectations[cite: 6].
+
+### Key Performance Indicators (KPIs)
+* **Conversion Rate:** Percentage of WhatsApp inquiries converted to paid orders[cite: 6].
+* **ROAS:** Target of 4x Return on Ad Spend to ensure profitability of the EGP 100k goal[cite: 6].
+* **CPR:** Monitoring Cost Per Result to optimize budget across Facebook and Instagram[cite: 6].
+
+---
+*This project is part of the FTMNT Digital Marketing Strategy 2026.*
