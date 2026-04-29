@@ -203,6 +203,27 @@ Analytics      →  Meta Business Suite · TikTok Analytics
 
 
 
+## 💼 2. Business Model Canvas (Marketing Perspective)
+
+Our business model is built on delivering high-end craftsmanship while maintaining a direct, trust-based relationship with our "Muses".
+
+### Core Business Pillars
+| Feature | Strategy & Execution |
+| :--- | :--- |
+| **💎 Value Propositions** | • Premium handmade bags with full customization.<br>• Industry-leading **8-month warranty**.<br>• Egyptian brand pride with luxury finishing. |
+| **👥 Customer Segments** | • **Women (18-35):** Seeking unique, non-mass-market style.<br>• **Men (20-40):** Looking for premium, personalized gifts.<br>• **Quality-over-price buyers** who value durability. |
+| **📢 Channels** | • **Facebook:** Primary engine for Sales & Lead Ads.<br>• **Instagram:** Visual branding & lifestyle storytelling.<br>• **WhatsApp:** Closing sales & bespoke consultations.<br>• **TikTok:** Organic reach & BTS process videos. |
+| **💰 Revenue Streams** | • Direct sales of ready-made collection.<br>• **Bespoke/Custom orders** (at 30% premium pricing).<br>• Upselling wallets & small leather accessories. |
+
+### 🛠 Key Operations
+* **Craftsmanship:** Hand-stitching and premium material sourcing.
+* **Speed to Lead:** Ensuring WhatsApp replies within 1 hour to boost conversion.
+* **Unboxing:** High-end packaging to drive brand loyalty and UGC.
+
+
+
+
+
 ## 📈 7. Strategic Recommendations & Growth Roadmap
 
 Based on our "Engine of Growth" strategy for 2026, we have defined three core pillars to scale FTMNT:
